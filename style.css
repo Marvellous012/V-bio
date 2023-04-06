@@ -1,0 +1,39 @@
+body {
+    background-color: #CD8B76;
+    color:white;
+    text-align: center;
+   font-family: 'Open Sans', sans-serif;
+
+}
+
+.image{
+  width: 50%;
+  border-radius: 50%;
+}
+
+h1{
+  font-size: large;
+}
+
+p{
+  font-size: medium;
+}
+
+.btn{
+  display: block;
+  color:#5863F8;
+  padding: 20px;
+  background-color:wheat;
+  margin: 16px;
+  box-shadow: 10px 10px slategrey;
+}
+
+a{
+  text-decoration: none;
+  color:#A1CDA8;
+  
+}
+
+.logo{
+  color:#AA1155;
+}
